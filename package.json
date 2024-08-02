@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-source-udp/info-fic.git"
+  },
   "author": "Samuel Angulo <samuel.angulo_c@mail.udp.cl> - Open Source UDP",
   "license": "MIT",
   "description": "Paquete NPM para utilizar información relevante de la facultad de ingeniería y ciencias en diferentes aplicaciones en las que se desee integrar.",
