@@ -1,0 +1,15 @@
+{
+  "name": "@open-source-udp/info-fic",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Angulo <samuel.angulo_c@mail.udp.cl> - Open Source UDP",
+  "license": "MIT",
+  "description": "Paquete NPM para utilizar información relevante de la facultad de ingeniería y ciencias en diferentes aplicaciones en las que se desee integrar.",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
