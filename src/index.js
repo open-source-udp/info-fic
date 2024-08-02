@@ -1,5 +1,3 @@
-import { cursos as industrial } from './data/eii'
-import { cursos as informatica } from './data/eit'
-import { cursos as obras } from './data/eoc'
-
-module.exports = { industrial, informatica, obras }
+export { cursos as industrial } from './data/eii.js'
+export { cursos as informatica } from './data/eit.js'
+export { cursos as obras } from './data/eoc.js'
